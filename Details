@@ -1,0 +1,44 @@
+Topics:
+  Grid/flex concept, Row, Columns
+
+  Grid-Sysytem:
+    12 Column System
+      col-1 ---> 12 / 1 ---> 12 width ---> 100 / 12 ---> 8.33333
+      col-2 ---> 12 / 2 ---> 6  width ---> 100 / 6  ---> 16.6667
+      col-3 ---> 12 / 3 ---> 4  width ---> 100 / 4  ---> 25
+      col-4 ---> 12 / 4 ---> 3  width ---> 100 / 3 ----> 33.333
+      .
+      .
+      col-8 ---> 12 / 8 ---> 3 / 2 width ---> 100 / (3/2) ---> 200 / 3 ---> 66.666667
+      col-12 --> 12 / 12 --> 1  width ---> 100 / 1 ---> 100
+
+    column prefix
+      using device specs with the col number
+      eg: col-sm-2 col-mg-4 col-lg-8
+
+    nested columns
+      just nesting the same col prefix structure
+    Ordering Columns
+      using order class with prefix
+        eg: order-sm-1, order-lg-3
+  
+  visibility --> hidden and display ---> none
+  
+  n-type CSS, few more selectors
+  
+  custom svg ->   
+
+  Next Session:
+    DOM
+
+    HTML
+      | --> Head
+              | --> title
+      | --> Body
+              | --> P
+
+    Document
+    getElementById
+    duplicate id for same
+    setAttribute
+    innerHTML vs innerText
