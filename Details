@@ -14,7 +14,7 @@ Topics:
 
     column prefix
       using device specs with the col number
-      eg: col-sm-2 col-mg-4 col-lg-8
+      eg: col-sm-2 col-md-4 col-lg-8
 
     nested columns
       just nesting the same col prefix structure
